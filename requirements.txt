@@ -23,7 +23,7 @@ virtualenv==15.1.0
 whitenoise==3.3.1
 wrapt==1.10.11
 dj-database-url==0.4.2
-Django==1.11.7
+Django==2.2.24
 gunicorn==19.7.1
 pytz==2017.3
 whitenoise==3.3.1
